@@ -1,0 +1,3 @@
+dotenv: env
+console:
+    editing_mode: vi
