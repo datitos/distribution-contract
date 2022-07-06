@@ -40,3 +40,9 @@ Deploy to mainnet
 ```sh
 $ brownie run scripts/prod_deploy.py --network mainnet
 ```
+
+Distribute a payment
+
+```sh
+$ brownie run scripts/prod_distribute.py --network mainnet
+```
