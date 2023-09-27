@@ -1,5 +1,7 @@
 # Distribution contract
 
+See the [blog post](https://coinsbench.com/smart-contract-for-distribution-of-payments-within-a-co-op-3c14a78dcc4b) with the project description.
+
 ## Requirements
 
 Install Ganache local testnet
